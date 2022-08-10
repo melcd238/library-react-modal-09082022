@@ -1,5 +1,5 @@
 # Simple modal react component library
-npm package : https://www.npmjs.com/package/simple-modal-component-library
+npm package : https://www.npmjs.com/package/simple-modal-component-library /
 Simple Modal component React is a library that allows to create modals easily with 3 different styles: SUCCESS (green), ERROR (red) and DANGER (orange) and 1 style by default.
 <img width="404" alt="Capture d’écran 2022-08-10 à 17 37 04" src="https://user-images.githubusercontent.com/46504445/183973294-4ac13548-b88a-430f-a609-33fa0754c02b.png">
 
