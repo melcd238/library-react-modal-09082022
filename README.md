@@ -6,7 +6,7 @@ Simple Modal component React is a library that allows to create modals easily wi
 
 <img width="404" alt="Capture d’écran 2022-08-10 à 17 37 25" src="https://user-images.githubusercontent.com/46504445/183973343-ab529d80-4454-40c0-8202-23e7e763df1b.png">
 
- Style by default:\
+ Style by default:
  
 <img width="404" alt="modalw" src="https://user-images.githubusercontent.com/46504445/183973373-4c7fcb79-e925-40c5-94b9-8265585a1a49.png">
 
