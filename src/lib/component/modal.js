@@ -1,14 +1,14 @@
 import React from 'react';
 import './modal.css'
 
-const Modal = ({closeModal,label,stylesForModal})=>{
+const Modal = ({closeModal,label,stylesModal})=>{
     
 
     return(
         <div className='modal-container'>
-                <div className='modal'>
+                <div className={`modal modal-${stylesModal}`}>
                    <div className='modal-header'>
-                        <button className='btn-close-modal' onClick={closeModal}>X</button>
+                        <button className={`btn-close-modal btn-close-modal-${stylesModal}`} onClick={closeModal}>X</button>
                    </div>
                    <div className='modal-content'>
                         <p>{label}</p>

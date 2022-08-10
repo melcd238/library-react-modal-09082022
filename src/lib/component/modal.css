@@ -16,7 +16,7 @@
    max-width:320px;
    width:40%;
    padding:1rem;
-   border: 1px solid #5A6F07;
+   
 }
 .modal-header{
     display:flex;
@@ -28,5 +28,23 @@
     tex-align:center;
     border-radius:50%;
     border:none;
+   
+}
+.modal-SUCCESS{
+    border: 1px solid #5A6F07;
+}
+.modal-ERROR{
+    border: 1px solid #EA1F39;
+}
+.modal-DANGER{
+    border: 1px solid #FE5C05;
+}
+.btn-close-modal-SUCCESS{
     background-color: #5A6F07;
+}
+.btn-close-modal-ERROR{
+    background-color: #EA1F39;
+}
+.btn-close-modal-DANGER{
+    background-color:  #FE5C05;
 }

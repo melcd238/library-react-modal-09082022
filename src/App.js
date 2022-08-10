@@ -14,7 +14,7 @@ function App() {
 
   return isShowing ? ReactDOM.createPortal(
     <>
-       <Modal label="Mon texte" closeModal={(e)=>closeModal()}/>
+       <Modal label="Mon texte" closeModal={(e)=>closeModal()} stylesModal="SUCCESS"/>
     </>, document.body
   )
   :
